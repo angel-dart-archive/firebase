@@ -1,2 +1,2 @@
 # firebase
-Firebase-powered universal services.
+Firebase-enabled services for the Angel framework.
